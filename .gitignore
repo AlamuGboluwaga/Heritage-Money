@@ -22,7 +22,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /src/assets
-
+src/pages/Chat.tsx
 /src/component
-/src/pages
+
 /src/router
